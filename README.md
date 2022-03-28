@@ -11,5 +11,6 @@ Distributed with permission of Prof. Dr. Qaisar Ali, Chairman, Department of
  Version 26 Last updated 20/August/2020
  
 ## Change Log:
+ Use v28 of OBE Assessment tool xlsm file to be compatible with latest Google Sheets CSV export changes.
  Use v27 of OBE Assessment tool xlsm file, if you are getting "[Datasource:Error] Web.Contents failed to get...".
  
